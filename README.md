@@ -24,7 +24,7 @@
         <tr>
             <td>Google_landing_page</td>
             <td><a href="https://github.com/Meltem-Karaagac/Google_landing_page" target="_blank">Repo details</a></td>
-            <td><a href="https://github.com/Meltem-Karaagac/Web_dizayn_project" target="_blank">App details</a></td>
+            <td><a href="hhttps://meltem-karaagac.github.io/Google_landing_page/" target="_blank">App details</a></td>
              <td><img src="./IMG.png" alt="html" ></td> 
         </tr>
         <tr>
