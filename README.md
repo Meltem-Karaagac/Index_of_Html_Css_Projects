@@ -1,6 +1,7 @@
 <p align="center"> 
   
 <h1 align="center">Index of Django Projects</h1>
+
 </p>
 
 <table>
@@ -16,7 +17,7 @@
             <td>Team_members_project</td>
             <td><a href="https://github.com/Meltem-Karaagac/Team_member_project" target="_blank">Repo details</a></td>
             <td><a href="https://meltem-karaagac.github.io/Team_member_project/" target="_blank">App details</a></td>
-            <td><img src="./html.png" alt="html" height=130> ></td> 
+            <td><img src="./html.png" alt="html" height=130></td> 
         </tr>
         <tr>
             <td>Web_dizayn_project</td>
