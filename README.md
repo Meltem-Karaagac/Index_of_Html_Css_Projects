@@ -32,7 +32,7 @@
              <td><img src="./html.png" alt="html" height=130></td> 
         </tr>
         <tr>
-            <td>Parallax_Website</td>
+            <td>Parallax_website</td>
             <td><a href="https://github.com/Meltem-Karaagac/Parallax_Website" target="_blank">Repo details</a></td>
             <td><a href="https://meltem-karaagac.github.io/Parallax_Website/" target="_blank">App details</a></td>
              <td><img src="./html.png" alt="html" height=130></td> 
