@@ -42,7 +42,7 @@
             <td><a href="https://github.com/Meltem-Karaagac/Checkout_form" target="_blank">Repo details</a></td>
             <td><a href="https://meltem-karaagac.github.io/Checkout form/" target="_blank">App details</a></td>
              <td><img src="./html.png" alt="html" height=130></td> 
-        </tr>https://meltem-karaagac.github.io/NetFlix/
+        </tr>
         <tr>
             <td>Netflix_servey_form</td>
             <td><a href="https://github.com/Meltem-Karaagac/NetFlix" target="_blank">Repo details</a></td>
