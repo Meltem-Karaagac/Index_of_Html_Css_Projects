@@ -7,7 +7,7 @@
 <table>
     <thead>
         <tr>
-            <td>Project Name</td>
+            <td>Project  Name</td>
             <td>Repo Link</td>
             <td>App Link</td>
             <td>Overview</td>
